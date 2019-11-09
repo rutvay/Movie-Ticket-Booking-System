@@ -4,14 +4,11 @@ import java.io.IOException;
 
 public class Layout {
     public static void displayEstelle(){
-        System.out.println("███████╗███████╗████████╗███████╗██╗     ██╗     ███████╗");
-        System.out.println("██╔════╝██╔════╝╚══██╔══╝██╔════╝██║     ██║     ██╔════╝");
-        System.out.println("█████╗  ███████╗   ██║   █████╗  ██║     ██║     █████╗  ");
-        System.out.println("██╔══╝  ╚════██║   ██║   ██╔══╝  ██║     ██║     ██╔══╝  ");
-        System.out.println("███████╗███████║   ██║   ███████╗███████╗███████╗███████╗");
-        System.out.println("╚══════╝╚══════╝   ╚═╝   ╚══════╝╚══════╝╚══════╝╚══════╝");
+        System.out.println("LODDAAAAAAAA");
+        System.out.println("LODAAAAAAA");
         System.out.println();
     }
+    
 
     public static void exit() throws InterruptedException {
         clearScreen();
